@@ -4,9 +4,7 @@ teamwork and problem solving.
 🎯 My personal focus is computer security where I aspire to continue to improve and achieve different industry certifications such as eJPTv2, eWPTXv2, eCPPT, OSCP.
 
 ### Skills  
-- C++, Python, React, Node, Javascript.
-- HTML, CSS.
-- MySQL.
+- C++, Python.
 - BASH Scripting.
 
 
